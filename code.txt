@@ -1,1 +1,2 @@
-hello world\nxin chao tai\n
+Hello world
+xin chao nguyen minh tai
